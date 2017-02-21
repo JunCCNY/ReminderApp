@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ReminderAPP</string>
+
+    <!-- String for createUI-->
+    <string name="title">Title</string>
+    <string name="content_hint">Add reminder Description</string>
+    <string name="time_now">Now</string>
+    <string name="date_today">Today</string>
+    <string name="forever">Forever</string>
+    <string name="repeat_notification">Number of times to repeat: </string>
+    <string name="times">times</string>
+
+    <string name="save_menu">Save</string>
+
+</resources>
